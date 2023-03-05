@@ -1,7 +1,7 @@
-#请在本地测试
-#管理员序列号：尤雨溪懂个锤子Vue
-# fundforming
 
+# fundforming
+请在本地测试
+管理员序列号：尤雨溪懂个锤子Vue
 ## Project setup
 ```
 npm install
